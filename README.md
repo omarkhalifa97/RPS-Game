@@ -11,3 +11,13 @@ Matchmaking: Once two clients have connected, the server should match them and i
 Play game: The server should handle the logic for determining the winner of the game and broadcast the result to all clients.
 
 Multiplayer support: The server should be able to handle multiple games simultaneously, with each game being played by two clients.
+
+# How to run
+(this works for windows xp/7/8/10/11
+@ Enter following commands in CMD or Powershell
+
+_ pyhton3 ./Server.py    # to start server
+
+_ python3 ./Clinet.py	# to start the game
+
+
