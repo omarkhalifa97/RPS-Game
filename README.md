@@ -16,8 +16,8 @@ Multiplayer support: The server should be able to handle multiple games simultan
 (this works for windows xp/7/8/10/11
 @ Enter following commands in CMD or Powershell
 
-_ pyhton3 ./Server.py    # to start server
+_ pyhton ./Server.py    # to start server
 
-_ python3 ./Clinet.py	# to start the game
+_ python ./Clinet.py	# to start the game
 
 
